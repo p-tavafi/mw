@@ -1,0 +1,2 @@
+- apps/common/vendors/Composer/vendor/react/promise/src/functions.php
+Above uses short array syntax available from php 5.4. I modified it for regular array usage.

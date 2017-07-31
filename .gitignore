@@ -1,0 +1,5 @@
+# Transmit upload might produce these files. I think.
+.fuse_hidden*
+__MACOSX
+.DS_Store
+.idea
