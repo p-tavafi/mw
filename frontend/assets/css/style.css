@@ -1,0 +1,20 @@
+h1.page-heading {
+	padding-top:0px;
+	margin-top:0px;
+	font-size:30px;
+}
+h1.page-heading small {
+	font-size: 12px;
+}
+
+.related-articles {margin-top: 10px;}
+.related-articles .article {margin-bottom: 10px; font-size: 12px; border-bottom: 1px dotted #c2c2c2; padding-bottom:5px; min-height: 90px;border-right:1px dotted #c2c2c2}
+.related-articles .article .title {font-size: 13px;}
+.related-articles .article .excerpt{font-size:12px;}
+.related-articles .column {}
+
+.list-articles {}
+.list-articles .article {margin-bottom: 10px; font-size: 12px; border-bottom: 1px dotted #c2c2c2; padding-bottom:5px; min-height: 90px;border-right:1px dotted #c2c2c2}
+.list-articles .article .title {font-size: 13px;}
+.list-articles .article .excerpt {font-size:12px;}
+.list-articles .article .categories {font-size:12px;}

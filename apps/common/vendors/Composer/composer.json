@@ -1,0 +1,18 @@
+{
+    "require": {
+        "mandrill/mandrill": "1.0.*",
+        "aws/aws-sdk-php": "2.7.*",
+        "mailgun/mailgun-php": "~1.7.1",
+        "sendgrid/sendgrid": "~4.0",
+        "dyninc/dyn-php": "0.5.0",
+        "mtdowling/cron-expression": "1.*",
+        "php-amqplib/php-amqplib": "2.5.*",
+        "phpseclib/phpseclib": "2.*",
+        "abraham/twitteroauth": "^0.5.4",
+        "twig/twig": "~1.0",
+        "mailjet/mailjet-apiv3-php": "^1.1",
+        "mailin-api/mailin-api-php": "^1.0",
+        "tipimail/tipimail": "^0.1.57",
+        "facebook/graph-sdk": "^5.4"
+    }
+}
