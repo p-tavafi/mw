@@ -3,3 +3,5 @@
 __MACOSX
 .DS_Store
 .idea
+*.bin
+*.log
