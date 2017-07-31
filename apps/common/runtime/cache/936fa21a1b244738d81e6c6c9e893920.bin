@@ -1,1 +1,1 @@
-a:2:{i:0;a:0:{}i:1;N;}
+a:2:{i:0;a:1:{i:0;a:2:{s:4:"date";s:9:"2017/7/31";s:5:"items";a:1:{i:0;a:4:{s:4:"time";s:5:"19:17";s:12:"customerName";s:12:"Pouya Tavafi";s:11:"customerUrl";s:43:"/mw/backend/index.php/customers/update/id/1";s:7:"message";s:69:"The list "test-list-n9dquhoufahfouqwh" has been successfully created!";}}}}i:1;N;}

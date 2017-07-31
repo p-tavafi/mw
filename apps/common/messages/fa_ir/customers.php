@@ -8,7 +8,7 @@
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
  * @link http://www.mailwizz.com/
- * @copyright 2013-2015 MailWizz EMA (http://www.mailwizz.com)
+ * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
  * @license http://www.mailwizz.com/license/
  * @since 1.1
  */
@@ -115,4 +115,5 @@
   'If for some reason the link doesn\'t work, please copy the following url into your browser address bar:' => 'If for some reason the link doesn\'t work, please copy the following url into your browser address bar:',
   'The sending quota has been successfully reseted!' => 'The sending quota has been successfully reseted!',
   'VAT Number' => 'VAT Number',
+  'Messages' => 'Messages',
 );

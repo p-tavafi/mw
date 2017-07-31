@@ -8,7 +8,7 @@
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
  * @link http://www.mailwizz.com/
- * @copyright 2013-2015 MailWizz EMA (http://www.mailwizz.com)
+ * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
  * @license http://www.mailwizz.com/license/
  * @since 1.1
  */
@@ -43,4 +43,5 @@
   'Ip address' => 'Ip address',
   'Invalid login credentails.' => 'Invalid login credentails.',
   'Group' => 'Group',
+  'Sign in to start your session' => 'Sign in to start your session',
 );

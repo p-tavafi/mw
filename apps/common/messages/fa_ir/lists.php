@@ -8,7 +8,7 @@
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
  * @link http://www.mailwizz.com/
- * @copyright 2013-2014 MailWizz EMA (http://www.mailwizz.com)
+ * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
  * @license http://www.mailwizz.com/license/
  * @since 1.1
  */
@@ -115,8 +115,8 @@
   'How many subscribers to move at once' => 'How many subscribers to move at once',
   'The specified email address does not exist in the list!' => 'The specified email address does not exist in the list!',
   'Create new list' => 'Create new list',
-  'The list "{listName}" has been successfully created!' => 'The list "{listName}" has been successfully created!',
-  'The list "{listName}" has been successfully updated!' => 'The list "{listName}" has been successfully updated!',
+  'The list "{listName}" has been successfully created!' => 'لیست ایمیل با نام "{listName}" ایجاد شد',
+  'The list "{listName}" has been successfully updated!' => 'لیست ایمیل با نام "{listName}" به روز شد',
   'Your mail list {formName}' => 'Your mail list {formName}',
   'Mail list {formName}' => 'Mail list {formName}',
   'Available tags:' => 'Available tags:',
@@ -151,4 +151,28 @@
   'You have reached the maximum number of allowed subscribers into this list.' => 'You have reached the maximum number of allowed subscribers into this list.',
   'Invalid list selection!' => 'Invalid list selection!',
   'Your list was successfully copied!' => 'Your list was successfully copied!',
+  'Unique ID' => 'Unique ID',
+  'Merged' => 'Merged',
+  'Welcome email' => 'Welcome email',
+  'Removable' => 'Removable',
+  'Sub. require approval' => 'Sub. require approval',
+  'Sub. not found redirect' => 'Sub. not found redirect',
+  'Sub. exists redirect' => 'Sub. exists redirect',
+  'Meta data' => 'Meta data',
+  'No' => 'No',
+  'Whether the subscriber should receive a welcome email as defined in your list pages.' => 'Whether the subscriber should receive a welcome email as defined in your list pages.',
+  'Whether the subscriber must be manually approved in the list.' => 'Whether the subscriber must be manually approved in the list.',
+  'Optionally, a url to redirect the visitor if the subscriber hasn\'t been found in the list or he isn\'t valid anymore.' => 'Optionally, a url to redirect the visitor if the subscriber hasn\'t been found in the list or he isn\'t valid anymore.',
+  'Optionally, a url to redirect the visitor at subscription time if the subscriber email already exists in the list. You can use all the common custom tags here.' => 'Optionally, a url to redirect the visitor at subscription time if the subscriber email already exists in the list. You can use all the common custom tags here.',
+  'Subscriber actions' => 'Subscriber actions',
+  'Actions when subscribe' => 'Actions when subscribe',
+  'Actions when unsubscribe' => 'Actions when unsubscribe',
+  'When a subscriber will subscribe into this list, if he exists in any of the lists below, unsubscribe him from them. Please note that the unsubscribe from the lists below is silent, no email is sent to the subscriber.' => 'When a subscriber will subscribe into this list, if he exists in any of the lists below, unsubscribe him from them. Please note that the unsubscribe from the lists below is silent, no email is sent to the subscriber.',
+  'Action' => 'Action',
+  'Source list' => 'Source list',
+  'Source action' => 'Source action',
+  'Target list' => 'Target list',
+  'Target action' => 'Target action',
+  'When a subscriber will unsubscribe from this list, if he exists in any of the lists below, unsubscribe him from them too. Please note that the unsubscribe from the lists below is silent, no email is sent to the subscriber.' => 'When a subscriber will unsubscribe from this list, if he exists in any of the lists below, unsubscribe him from them too. Please note that the unsubscribe from the lists below is silent, no email is sent to the subscriber.',
+  'Website' => 'Website',
 );

@@ -8,7 +8,7 @@
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
  * @link http://www.mailwizz.com/
- * @copyright 2013-2015 MailWizz EMA (http://www.mailwizz.com)
+ * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
  * @license http://www.mailwizz.com/license/
  * @since 1.1
  */
@@ -275,5 +275,23 @@
   'Aug' => 'Aug',
   'Import file' => 'Import file',
   'Delete delivery temporary errors' => 'Delete delivery temporary errors',
-  'Resend' => 'Resend',
+  'Resend' => 'ارسال مجدد',
+  'Stats' => 'Stats',
+  'Custom tags' => 'Custom tags',
+  'Categories' => 'دسته بندی ها',
+  'Support' => 'Support',
+  'Messages' => 'Messages',
+  'Login logs' => 'گزارشات ورود',
+  'Blacklist monitors' => 'Blacklist monitors',
+  'Blacklist suggestions' => 'Blacklist suggestions',
+  'Api' => 'Api',
+  'Start pages' => 'Start pages',
+  'SPF/DKIM' => 'SPF/DKIM',
+  'Campaigns stats' => 'Campaigns stats',
+  'Cron jobs history' => 'Cron jobs history',
+  'Store' => 'Store',
+  'Whether the feature is enabled' => 'Whether the feature is enabled',
+  'Toggle columns' => 'Toggle columns',
+  'All subscribers' => 'All subscribers',
+  'Select all' => 'Select all',
 );
